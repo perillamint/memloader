@@ -2,6 +2,7 @@
 #include "ScopeGuard.h"
 #include "RelPath.h"
 #include "Elf.h"
+#include "platformfix.h"
 #include <cassert>
 #include <cstdio>
 #include <fstream>
