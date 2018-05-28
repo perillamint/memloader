@@ -1,6 +1,7 @@
 #include "Types.h"
 #include "ScopeGuard.h"
 #include "RelPath.h"
+#include "platformfix.h"
 #include <cassert>
 #include <cstdio>
 #include <fstream>
