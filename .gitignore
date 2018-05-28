@@ -1,3 +1,6 @@
 /out/**
 /build/**
 /.vscode/settings.json
+/tools/*.o
+/tools/elf2ini
+/tools/cbfs2ini
